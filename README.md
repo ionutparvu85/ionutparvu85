@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Ionut Parvu aka PI-oons
+ 👋 Hi, I’m Ionut Parvu aka PI-oons
+ 
+ 
 - 👀 I am passionate about programming
 - 🌱 I’m always learning 
 - 💞️ I'm excited about bringing both the technical and visual aspects of digital products to life.
